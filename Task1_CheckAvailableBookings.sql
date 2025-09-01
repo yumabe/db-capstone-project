@@ -1,0 +1,1 @@
+SELECT bookingid, bookingdate, tablenumber, customerid FROM bookings;
